@@ -1,1 +1,1 @@
-rint("Hello from another file")
+print("Hello from another file")
